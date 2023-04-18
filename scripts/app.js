@@ -1,6 +1,6 @@
-// Names: Madeline Caruso, Quintyn Taylor-mcnutt
-// Student IDs: 100756743, 100828225
-// Date of Completion: 2023-02-12
+// Names: Madeline Caruso, Patrick Broderick
+// Student IDs: 100756743, 100689179
+// Date of Completion: 2023-04-15
 class Contact{
 
     //Constructor
